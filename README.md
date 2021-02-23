@@ -149,14 +149,14 @@ result_button.addEventListener('click', function(e){
 ```
 
 ## OUTPUT:
-![output](./static/img/1.jpg)
+![output](./static/img/1.png)
 
-![output](./static/img/2.jpg)
+![output](./static/img/2.png)
 
 ## code validator:
-![output](./static/img/3.jpg)
+![output](./static/img/3.png)
 
-![output](./static/img/4.jpg)
+![output](./static/img/4.png)
 
 
 ## RESULT:
